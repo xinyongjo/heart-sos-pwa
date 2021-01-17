@@ -1,6 +1,6 @@
 {
   "name": "Heart SOS",
-  "short_name": "HeartSOS",
+  "short_name": "Heart SOS",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
@@ -8,49 +8,49 @@
   "start_url": "./",
   "icons": [
     {
-      "src": "assets/icons/mobile-icon.png",
+      "src": "assets/icons/mobile-icon-clear.png",
       "sizes": "72x72",
       "type": "image/png",
       "purpose": "maskable any"
     },
     {
-      "src": "assets/icons/mobile-icon.png",
+      "src": "assets/icons/mobile-icon-clear.png",
       "sizes": "96x96",
       "type": "image/png",
       "purpose": "maskable any"
     },
     {
-      "src": "assets/icons/mobile-icon.png",
+      "src": "assets/icons/mobile-icon-clear.png",
       "sizes": "128x128",
       "type": "image/png",
       "purpose": "maskable any"
     },
     {
-      "src": "assets/icons/mobile-icon.png",
+      "src": "assets/icons/mobile-icon-clear.png",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "maskable any"
     },
     {
-      "src": "assets/icons/mobile-icon.png",
+      "src": "assets/icons/mobile-icon-clear.png",
       "sizes": "152x152",
       "type": "image/png",
       "purpose": "maskable any"
     },
     {
-      "src": "assets/icons/mobile-icon.png",
+      "src": "assets/icons/mobile-icon-clear.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable any"
     },
     {
-      "src": "assets/icons/mobile-icon.png",
+      "src": "assets/icons/mobile-icon-clear.png",
       "sizes": "384x384",
       "type": "image/png",
       "purpose": "maskable any"
     },
     {
-      "src": "assets/icons/mobile-icon.png",
+      "src": "assets/icons/mobile-icon-clear.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable any"
