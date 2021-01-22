@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1611240693372,
+  "timestamp": 1611322886589,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -40,6 +40,7 @@
         "/assets/icons/icon-512x512.png",
         "/assets/icons/icon-72x72.png",
         "/assets/icons/icon-96x96.png",
+        "/assets/icons/icon-meta.png",
         "/assets/icons/mobile-icon-clear.png",
         "/assets/icons/mobile-icon.png",
         "/assets/logo/befrienders.jpg",
@@ -84,6 +85,7 @@
     "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/icons/icon-meta.png": "3a380e0e503d5f1aa006e12220d3131ca214a769",
     "/assets/icons/mobile-icon-clear.png": "4761f35178b2e90247f9816084bed316fd5633ce",
     "/assets/icons/mobile-icon.png": "6a4b5e7a82a5f97ea405b1599666906659a8042e",
     "/assets/logo/befrienders.jpg": "70104d9c798b09394157d0aae0e317fe8c7426ef",
@@ -104,7 +106,7 @@
     "/fa-solid-900.8fb677a95f4d1a60a535.ttf": "75389055ff16f50e13c46b95da3c59af091f34c1",
     "/fa-solid-900.dc4cd499c4e39885ce89.eot": "94be46c754a1415ed221f78136e45449018da0ed",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "ef542271a724893efb637b6bf5701aeeffbcd104",
+    "/index.html": "cf3ef3d35e6eba8b9ece16cbc30e9328d5bba336",
     "/ionicons.175f391f238cd7deffa8.woff2": "60c9e10a709815148bf4a9b333a396692739cd5c",
     "/ionicons.576a3a02948f7f5140b2.ttf": "a8cfdb2b0545da2c9883e8f3446ecd6ae467ee7d",
     "/ionicons.74d1410980e8dabb67a0.svg": "1df996bb4f1d41fb25d402d858901653cb881d1a",
